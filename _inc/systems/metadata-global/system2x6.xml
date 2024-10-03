@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>Namco System 246/256</systemName>
-      <systemDescription>The Namco System 246/256 is an arcade platform based on the Sony PlayStation 2. Sometimes referred to as Namco 2x6, as the two hardwares are very similar and run much of the same software. The system is comprised of a motherboard and optical or hard disk drive, housed in a large metal case. Software is booted from a security dongle and runs either straight off supplied optical media (DVD-ROM or CD-ROM), or a hard drive.The security dongle is cosmetically and electrically identical to a PS2 memory card, but contains different security algorithms to prevent unauthorized copying. There are no regional restrictions inherent to any dongle, media, or chassis, but many games were released with limited export regulations in the form of licensing or legal text at boot.</systemDescription>
+      <systemDescription>Namco System 246 — система, совместимая с Sony PlayStation 2, использовавшаяся для производства игровых автоматов. Namco System 246 была выпущена в 2001 году. Как и Sega NAOMI, лицензировалась и использовалась сторонними производителями. В семейство System 246 входят и другие модификации: Namco System 256, является улучшенной версией 246; Namco System 147, вместо DVD-ROM используются микросхемы ROM на системной плате.</systemDescription>
       <systemManufacturer>Namco/Sony</systemManufacturer>
       <systemReleaseYear>2001</systemReleaseYear>
       <systemReleaseDate>2001-01-01</systemReleaseDate>

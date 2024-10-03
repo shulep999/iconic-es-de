@@ -1,11 +1,11 @@
 <theme>
    <variables>
       <systemName>Super Game Boy</systemName>
-      <systemDescription>Super Game Boy — 16-битный картридж-адаптер для игровой консоли Super Nintendo Entertainment System, в Японии также известной как Super Famicom. Super Game Boy позволяет запускать картриджи с играми для портативной консоли Game Boy на экране телевизора, используя в качестве игрового контроллера геймпад от SNES/Super Famicom. На момент выпуска в США Super Game Boy стоил $59.99. В Великобритании он продавался по цене £49.99. Super Game Boy является предшественником устройства Game Boy Player для консоли Nintendo GameCube, которое работало по схожей схеме.</systemDescription>
+      <systemDescription>Super Game Boy (яп. スーパーゲームボーイ Sūpā Gēmu Bōi) — 16-битный картридж-адаптер для игровой консоли Super Nintendo Entertainment System, в Японии также известной как Super Famicom. Super Game Boy позволяет запускать картриджи с играми для портативной консоли Game Boy на экране телевизора, используя в качестве игрового контроллера геймпад от SNES/Super Famicom. На момент выпуска в США Super Game Boy стоил $59.99. В Великобритании он продавался по цене £49.99. Super Game Boy является предшественником устройства Game Boy Player для консоли Nintendo GameCube, которое работало по схожей схеме.</systemDescription>
       <systemManufacturer>Nintendo</systemManufacturer>
       <systemReleaseYear>1994</systemReleaseYear>
-      <systemReleaseDate>28.06.1994г.</systemReleaseDate>
-      <systemReleaseDateFormated>28 июня 1994г.</systemReleaseDateFormated>
+      <systemReleaseDate>1994-06-28</systemReleaseDate>
+      <systemReleaseDateFormated>June 28, 1994</systemReleaseDateFormated>
       <systemHardwareType>Peripheral</systemHardwareType>
       <systemCoverSize>1-1</systemCoverSize>
       <systemColor>40518A</systemColor>

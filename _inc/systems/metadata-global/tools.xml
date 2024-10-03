@@ -1,7 +1,7 @@
 <theme>
    <variables>
-      <systemName>Tools</systemName>
-      <systemDescription>Programs, scripts and utilities to manage your set up.</systemDescription>
+      <systemName>Инструменты</systemName>
+      <systemDescription>Программы, скрипты и утилиты для управления настройками.</systemDescription>
       <systemManufacturer>Various</systemManufacturer>
       <systemReleaseYear>Various</systemReleaseYear>
       <systemReleaseDate>Various</systemReleaseDate>

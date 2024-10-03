@@ -1,11 +1,11 @@
 <theme>
    <variables>
       <systemName>MSX 2</systemName>
-      <systemDescription>MSX (Machines with Software eXchangeability) — название стандарта для бытовых компьютеров 1980-х годов. Он являлся попыткой создания единых стандартов для разработчиков аппаратного обеспечения, инициированной японским отделением компании Microsoft и Кадзухико Ниси, возглавлявшим его на тот момент. Также в разработке стандарта участвовала японская компания ASCII Corporation, основанная Ниси совместно с Кадзуя Ватанабэ специально для этой цели. Компьютеры стандарта MSX получили большую популярность в Японии и ряде других стран, однако, несмотря на поддержку Microsoft, почти не получили известности в США и Европе. Всего в мире было продано более 7,5 миллиона экземпляров MSX-совместимых компьютеров, из них 5 млн — в Японии.</systemDescription>
+      <systemDescription>MSX (Machines with Software eXchangeability) — название стандарта для бытовых компьютеров 1980-х годов. Он являлся попыткой создания единых стандартов для разработчиков аппаратного обеспечения, инициированной японским отделением компании Microsoft и Кадзухико Ниси, возглавлявшим его на тот момент. Также в разработке стандарта участвовала японская компания ASCII Corporation, основанная Ниси совместно с Кадзуя Ватанабэ специально для этой цели. Компьютеры стандарта MSX получили большую популярность в Японии и ряде других стран, однако, несмотря на поддержку Microsoft, почти не получили известности в США и Европе. Всего в мире было продано более 7,5 миллиона экземпляров MSX-совместимых компьютеров, из них 5 млн — в Японии. До появления и последующего большого успеха игровой консоли Famicom от Nintendo компьютеры MSX были основной домашней платформой для наиболее известных японских компаний — разработчиков видеоигр, таких как Konami и Hudson Soft. Такие игровые серии, как Metal Gear, Bomberman и Valis начались с игр, впервые вышедших на компьютерах MSX.</systemDescription>
       <systemManufacturer>Microsoft</systemManufacturer>
       <systemReleaseYear>1985</systemReleaseYear>
-      <systemReleaseDate>01.01.1985г.</systemReleaseDate>
-      <systemReleaseDateFormated>01 января 1985г.</systemReleaseDateFormated>
+      <systemReleaseDate>1985-01-01</systemReleaseDate>
+      <systemReleaseDateFormated>January 1, 1985</systemReleaseDateFormated>
       <systemHardwareType>Computer</systemHardwareType>
       <systemCoverSize>3-4</systemCoverSize>
       <systemColor>30A8EB</systemColor>
