@@ -1,7 +1,7 @@
 <theme>
    <variables>
-      <systemName>Completed</systemName>
-      <systemDescription>Keep track of the games you've finished.</systemDescription>
+      <systemName>Пройдено</systemName>
+      <systemDescription>Учёт пройденных игр.</systemDescription>
       <systemManufacturer>Various</systemManufacturer>
       <systemReleaseYear>Various</systemReleaseYear>
       <systemReleaseDate>Various</systemReleaseDate>

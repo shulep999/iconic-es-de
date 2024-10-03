@@ -1,7 +1,7 @@
 <theme>
    <variables>
       <systemName>Adobe Flash</systemName>
-      <systemDescription>Adobe Flash (formerly Macromedia Flash and FutureSplash) was a multimedia software platform used for production of animations, rich web applications, desktop applications, mobile apps, mobile games, and embedded web browser video players. Flash displays text, vector graphics, and raster graphics to provide animations, video games, and applications. It allows streaming of audio and video, and can capture mouse, keyboard, microphone, and camera input.</systemDescription>
+      <systemDescription>Adobe Flash (в прошлом - Macromedia Flash) — мультимедийная платформа компании Adobe для создания веб-приложений или мультимедийных презентаций. Использовалась для создания рекламных баннеров, анимации, игр, а также воспроизведения на веб-страницах видео- и аудиозаписей. Поддержка глобальной Adobe Flash была прекращена 31 декабря 2020 года. С 12 января 2021 года при попытке запуска swf-файла через Adobe Flash Player вместо него будет загружена лишь кнопка, ведущая на страницу Adobe с информацией об окончании жизненного цикла платформы.</systemDescription>
       <systemManufacturer>Macromedia</systemManufacturer>
       <systemReleaseYear>1996</systemReleaseYear>
       <systemReleaseDate>1996-11</systemReleaseDate>

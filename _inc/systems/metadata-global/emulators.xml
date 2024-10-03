@@ -1,7 +1,7 @@
 <theme>
    <variables>
-      <systemName>Emulators</systemName>
-      <systemDescription>Modify your Emulator settings and configurations</systemDescription>
+      <systemName>Эмуляторы</systemName>
+      <systemDescription>Изменение настроек и конфигураций эмулятора</systemDescription>
       <systemManufacturer>Various</systemManufacturer>
       <systemReleaseYear>Various</systemReleaseYear>
       <systemReleaseDate>Various</systemReleaseDate>
