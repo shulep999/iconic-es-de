@@ -1,4 +1,6 @@
 # Iconic (ES-DE Version)
+This version of the theme features refreshed artwork. For the original art, download here: [https://github.com/Siddy212/iconic-es-de-original/blob/main/README.md](https://github.com/Siddy212/iconic-es-de-original/tree/main)
+
 Iconic is an EmulationStation-DE theme that aims to provide a modern UI appearance while also highlighting famous characters from each system. It includes many textlist and gridview options while also adding new multi-layered artwork for popular systems. Inspiration and templates were taken from the following themes:
 
    - AlekFull NX theme by [fagnerpc](https://github.com/fagnerpc) and ported by [anthonycaccese](https://github.com/anthonycaccese)
@@ -13,9 +15,7 @@ Iconic is an EmulationStation-DE theme that aims to provide a modern UI appearan
 
 | System View | Gamelist View |
 | :---: | :---: |
-| <img src="https://github.com/Siddy212/iconic-es-de/assets/60283021/e72b2a5f-59f5-473c-82ff-2e3910aff469">| <img src="https://github.com/Siddy212/iconic-es-de/assets/60283021/bcf06376-5990-40f0-b361-70e65f8b0e95"> |
-| **(Simple) System View** | **(Simple) Gamelist View** |
-|![MainSystem](https://github.com/Siddy212/iconic-es-de/assets/60283021/c2476907-792f-4b2c-8286-8cdbb73f74aa)|![MainTextlist](https://github.com/Siddy212/iconic-es-de/assets/60283021/5e9b32e8-90ff-406b-9633-e2b326802ee5)|
+|![GenesisClassic-RetroGray](https://github.com/Siddy212/iconic-es-de/assets/60283021/0399fd57-f7a8-469f-91e8-0506538a70d7)|![GenesisClassic-RetroGray-Textlist](https://github.com/Siddy212/iconic-es-de/assets/60283021/77550642-0917-4dee-a911-1a4627213a50)|
 
 ## **Configuration Options**
 
@@ -52,10 +52,10 @@ Iconic is an EmulationStation-DE theme that aims to provide a modern UI appearan
    - `(Simple) Grid: Physical Media` - Simple System view. A grid view that spands the entire width of the screen and displays physical media.
 
      
-- `Theme Color Scheme` - There are 3 types of color schemes that are used for the overall theme on all views, Light, Dark, and Retro-Gray.  Each of these color schemes allow you to choose from: Classic, Modern, or Custom. This will indicate which art style to use. Classic using more official game art while Modern uses updated renders of characters. Custom allows user-defined artwork that can be mixed without changing the xml.
-   - `Light` - A white scheme in Classic, Modern, or Custom styles.
-   - `Dark` - A dark scheme in Classic, Modern, or Custom styles.
-   - `Retro Gray` - A SNES inspired color scheme in Classic, Modern, or Custom styles.
+- `Theme Color Scheme` - There are 3 types of color schemes that are used for the overall theme on all views, Light, Dark, and Retro-Gray.  Each of these color schemes allow you to choose from: Nintendon't, Classic, Modern, or Custom. This will indicate which art style to use. Classic using more official game art while Modern uses updated renders of characters. Nintendon't removes litigious IPs to allow for streaming which the theme defaults to. Custom allows user-defined artwork that can be mixed without changing the xml.
+   - `Light` - A white scheme in Classic, Modern, Nintendon't, or Custom styles.
+   - `Dark` - A dark scheme in Classic, Modern, Nintendon't, or Custom styles.
+   - `Retro Gray` - A SNES inspired color scheme in Classic, Modern, Nintendon't, or Custom styles.
 - `Theme Font Size` - enables you to change the size of the fonts displayed in the theme. It will also scale the size of the grid and carousel.
    - `Small` - good for display on tvs and computer monitors. Smallest Grid size.
    - `Medium` - good for display on tvs and computer monitors. Medium Grid sizing.
@@ -69,8 +69,7 @@ Iconic is an EmulationStation-DE theme that aims to provide a modern UI appearan
 
 | Color | Variant | SystemView | GamelistView |
 | :---: | :---: | :---: | :---: |
-|Dark-Classic|Carousel & Boxart|![SNESClassic-Dark](https://github.com/Siddy212/iconic-es-de/assets/60283021/e7ea0a8d-d26c-4ad9-b560-3d4ad2fe74a4)|![SNESClassic-Dark-Carousel](https://github.com/Siddy212/iconic-es-de/assets/60283021/ff848dcb-d5fd-4ad0-8878-86615327d64a)|
-|Light-Classic|(Simple) Horizontal Carousel|![SampleMain](https://github.com/Siddy212/iconic-es-de/assets/60283021/fa5e44b4-309f-406a-9504-90f157a0cf32)|![LightCarousel](https://github.com/Siddy212/iconic-es-de/assets/60283021/8fd44559-e3fc-4b65-a5c1-b71c332b2f46)
+|Dark-Classic|Carousel & Boxart|![Screenshot 2024-09-29 153402](https://github.com/user-attachments/assets/51a08cbd-6b60-41f9-8653-4ae321e70c36)|![Screenshot 2024-09-29 153613](https://github.com/user-attachments/assets/f9df2307-7067-4698-a6b3-5fd53578c93b)
 |Retro Gray-Classic|Textlist & Miximage|![GenesisClassic-RetroGray](https://github.com/Siddy212/iconic-es-de/assets/60283021/0399fd57-f7a8-469f-91e8-0506538a70d7)|![GenesisClassic-RetroGray-Textlist](https://github.com/Siddy212/iconic-es-de/assets/60283021/77550642-0917-4dee-a911-1a4627213a50)|
 
 
@@ -78,15 +77,10 @@ Iconic is an EmulationStation-DE theme that aims to provide a modern UI appearan
 | Color | Variant | SystemView | GamelistView |
 | :---: | :---: | :---: | :---: |
 |Dark-Modern|Grid: Boxart|![SampleDarkPSX](https://github.com/Siddy212/iconic-es-de/assets/60283021/15097176-7914-4b5e-b1a8-0627dc81808b)|![SampleDarkGrid](https://github.com/Siddy212/iconic-es-de/assets/60283021/01b0fb75-43f5-4aef-95c5-75800cacd8a7)|
-|Light-Modern|Grid: Physical Media|![SampleLightGBC](https://github.com/Siddy212/iconic-es-de/assets/60283021/c8d33ecf-ed11-4bbb-a463-a8cfad608bdf)|![SampleGBCCarts](https://github.com/Siddy212/iconic-es-de/assets/60283021/933506fc-5619-4838-946d-99d9919d5686)|
-|Retro Gray-Modern| (Simple) Grid: Boxart |![ModernRetroSystem](https://github.com/Siddy212/iconic-es-de/assets/60283021/50e3ca0d-8be0-4b28-b51a-26ec1ab9cb58)|![ModernRetroGrid](https://github.com/Siddy212/iconic-es-de/assets/60283021/f936e73b-5c46-4769-be2c-11ba637f1dfe)|
-### Preview of Font Sizes (Simple Variants)
+|Light-Modern|Grid: Physical Media|![Screenshot 2024-09-29 154232](https://github.com/user-attachments/assets/fe93b8a5-2f62-45bd-b601-8548f9c3f35e)|![Screenshot 2024-09-29 154717](https://github.com/user-attachments/assets/b58eea19-f9f7-4595-a296-957384df089a)|
 
-| Small | Medium |
-| :---: | :---: |
-| ![SmallFont](https://github.com/Siddy212/iconic-es-de/assets/60283021/0f69d3f0-ccf7-46ee-8480-cdedf9364730) | ![MediumFont](https://github.com/Siddy212/iconic-es-de/assets/60283021/60f52c2d-3402-43de-a90c-02f2029e5d3c) |
-| **Large** | **X-Large** |
-|![LargeFont](https://github.com/Siddy212/iconic-es-de/assets/60283021/572478fc-5f50-41e7-9dfd-440bbcc48a03)| ![XLargeFont](https://github.com/Siddy212/iconic-es-de/assets/60283021/7f95a894-cbdf-4092-a153-bea6a3a5d070) |
+
+
 
 
 
